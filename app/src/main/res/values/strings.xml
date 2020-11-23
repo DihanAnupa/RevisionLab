@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Revision Lab</string>
+    <string name="title">The CourseApp</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="Register">Register</string>
+    <string name="register">Register Form</string>
+    <string name="Teacher" />
+    <string name="teach">Teacher</string>
+    <string name="student">Student</string>
+    <string name="Subject">Subject</string>
+    <string name="Message">Message</string>
+    <string name="Send">Send</string>
+</resources>
